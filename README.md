@@ -4,8 +4,11 @@ To get started, please install [Python 3](https://www.python.org/downloads/) if 
 Next, run the following commands in your terminal:
 
 `git clone https://github.com/eldar-guseynov/breakout` 
+
 `cd breakout`
+
 `pip install -r requirments`
+
 `pip install -r requirements.txt`
 
 # Run
