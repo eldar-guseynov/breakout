@@ -15,3 +15,5 @@ Next, run the following commands in your terminal:
 To run the game, use the following command:
 
 `python breakout.py`
+
+![2025-02-27 16_28_16-breakout py - Breakout - Visual Studio Code  Administrator](https://github.com/user-attachments/assets/586b1e14-ae76-4a11-b919-caf343a942dc)
